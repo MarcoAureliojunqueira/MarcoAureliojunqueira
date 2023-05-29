@@ -7,7 +7,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcojunqueira2003/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcoAureliojunqueira)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAureliojunqueira&theme=black)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAureliojunqueira&theme=dracula)
 
 
 ## Tecnologias que uso no meu Dia
