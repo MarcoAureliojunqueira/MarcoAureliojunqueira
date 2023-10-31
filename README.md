@@ -9,7 +9,7 @@ Whatsapp = 12-988986593
 
 Apaixonado por Tecnologia e evolução , Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação
 tenho sonho de ser progrmador profissional e alcançar o melhor nivel de habilidades possivel quero demonstra o que sei
-e aprender com o que sabe melhor do que eu para alcançar uma evolução profissional e profissonal 
+e aprender com o que sabe melhor do que eu para alcançar uma evolução profissional 
 
 
 
