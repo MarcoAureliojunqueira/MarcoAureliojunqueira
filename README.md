@@ -3,6 +3,18 @@
 
 ### Ola! eu sou Marco Aurelio ✌️
 
+## Contato 
+Email = marcoaureliojunqueira8@gmail.com<br>
+Whatsapp = 12-988986593
+
+Apaixonado por Tecnologia e evolução , Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação
+tenho sonho de ser progrmador profissional e alcançar o melhor nivel de habilidades possivel quero demonstra o que sei
+e aprender com o que sabe melhor do que eu para alcançar uma evolução profissional e profissonal 
+
+
+
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marco.alcino.5/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcojunqueira2003/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcoAureliojunqueira)
@@ -25,10 +37,5 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <div><br>
   
-Apaixonado por Tecnologia e evolução , Amo programar me desenvolver e evoluir e Aprender Mas da vida Atraves da Programação 
 
-
-## Contato 
-Email = marcoaureliojunqueira8@gmail.com<br>
-Whatsapp = 12-988986593
 
