@@ -14,7 +14,8 @@ tenho conhecimento de Programação metadologia e trabalho em equipe e Desenvolv
 Email = marcoaureliojunqueira8@gmail.com  Whatsapp = 12-988986593
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marco.alcino.5/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcoAureliojunqueira)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcoAureliojunqueira)<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAureliojunqueira&theme=dracula)
 
 
