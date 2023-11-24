@@ -3,27 +3,22 @@
 
 ### Ola! eu sou Marco Aurelio ✌️
 
-## Contato 
-Email = marcoaureliojunqueira8@gmail.com  Whatsapp = 12-988986593
-
 ## Sobre mim
 Tenho 20 anos Sou formado como Desenvolvedor Web pela Trybe(escola de Programação Online) sou Apaixonado por Tecnologia<br> 
-Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação tenho sonho de ser programador profissional 
-e alcançar o melhor  nivel de habilidades possivel quero demonstra o que sei e aprender com o que sabe melhor do que eu, 
+Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação, tenho sonho de ser programador profissional 
+e alcançar o melhor  qualidade nas minhas habilidades possivel quero demonstra o que sei e aprender com o que sabe melhor do que eu, 
 para alcançar uma evolução profissional e sonhos tbm , tenho formação como Tecnico em Eletronica pelo Cephas(Escola Tecnica Profissional ) 
 tenho conhecimento de Programação metadologia e trabalho em equipe e Desenvolvi diversos Projetos Pela Trybe mais de 20 Projetos
 
-
+## Contato 
+Email = marcoaureliojunqueira8@gmail.com  Whatsapp = 12-988986593
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marco.alcino.5/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcojunqueira2003/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcoAureliojunqueira)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAureliojunqueira&theme=dracula)
 
 
 ## Tecnologias que uso no meu Dia
-
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
