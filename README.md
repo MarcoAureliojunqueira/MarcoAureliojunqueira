@@ -8,7 +8,7 @@ Email = marcoaureliojunqueira8@gmail.com  Whatsapp = 12-988986593
 
 ## Sobre mim
 Tenho 20 anos Sou formado como Desenvolvedor Web pela Trybe(escola de Programação Online) 
-sou Apaixonado por Tecnologia e evolução , Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação
+sou Apaixonado por Tecnologia e evolução  Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação
 tenho sonho de ser programador profissional e alcançar o melhor nivel de habilidades possivel quero demonstra o que sei
 e aprender com o que sabe melhor do que eu, para alcançar uma evolução profissional e sonhos tbm , tenho formação como 
 Tecnico em Eletronica pelo Cephas(Escola Tecnica Profissional ) tenho conhecimento de Programação metadologia e trabalho em
