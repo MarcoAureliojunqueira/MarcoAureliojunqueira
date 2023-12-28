@@ -4,7 +4,7 @@
 ### Ola! eu sou Marco Aurelio ✌️
 
 ## Sobre mim
-Tenho 20 anos Sou formado como Desenvolvedor Web pela Trybe(escola de Programação Online) sou Apaixonado por Tecnologia<br> 
+Tenho 20 anos Sou formado como Desenvolvedor Web sou Apaixonado por Tecnologia<br> 
 Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação, tenho sonho de ser programador profissional 
 e alcançar o melhor  qualidade nas minhas habilidades possivel quero demonstra o que sei e aprender com o que sabe melhor do que eu, 
 para alcançar uma evolução profissional e sonhos tbm , tenho formação como Tecnico em Eletronica pelo Cephas(Escola Tecnica Profissional ) 
