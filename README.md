@@ -4,12 +4,9 @@
 ### Ola! eu sou Marco Aurelio ✌️
 
 ## Sobre mim
-Tenho 20 anos Sou formado como Desenvolvedor Web sou Apaixonado por Tecnologia<br> 
-Amo programar e desenvolver e evoluir e Aprender Mas da vida Atraves da Programação, tenho sonho de ser programador profissional 
-e alcançar o melhor  qualidade nas minhas habilidades possivel quero demonstra o que sei e aprender com o que sabe melhor do que eu, 
-para alcançar uma evolução profissional e sonhos tbm , tenho formação como Tecnico em Eletronica pelo Cephas(Escola Tecnica Profissional ) 
-tenho conhecimento de Programação metadologia e trabalho em equipe e Desenvolvi diversos Projetos Pela Trybe mais de 20 Projetos
+Tenho 21 anos e sou formado como Desenvolvedor Web. Sou apaixonado por Tecnologia e amo programar, desenvolver e evoluir através da aprendizagem que a Programação proporciona. Meu sonho é tornar-me um programador profissional e alcançar o máximo de qualidade nas minhas habilidades. Estou determinado a demonstrar o que sei e a aprender com aqueles que possuem mais experiência do que eu, visando uma evolução profissional e a realização dos meus sonhos.
 
+Possuo formação como Técnico em Eletrônica pelo Cephas (Escola Técnica Profissional) e possuo conhecimento em metodologia de programação, trabalho em equipe e desenvolvimento de diversos projetos pela Trybe, totalizando mais de 20 projetos.
 ## Contato 
 Email = marcoaureliojunqueira8@gmail.com  Whatsapp = 12-988986593
 
